@@ -8,7 +8,7 @@
 3. dist.xlsx - расчетный дефицит/профицит на линии. 
 
 Указываем их в соответствующие пути:
-<img width="1811" height="208" alt="image" src="https://github.com/user-attachments/assets/cf1a0583-364a-48a3-82ef-b912c7ad99d4" />
+<img width="1753" height="174" alt="image" src="https://github.com/user-attachments/assets/b4b8d9d5-5fe8-4d20-a300-200c7d684fe3" />
 
 Запускам скрипт, на выходе получаем таблицу c распределением в следующем формате:
 
